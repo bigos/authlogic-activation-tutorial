@@ -292,3 +292,7 @@ Now we need to update our views to reflect the new signup process.
 h2. The End
 
 And that's it! Let me know if you have any suggestions for improvement.
+
+h2. Other Resources
+
+* "Password Reset Tutorial":http://github.com/rejeep/authlogic-password-reset-tutorial
